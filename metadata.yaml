@@ -1,0 +1,51 @@
+_repo: Obras-escogidas_53552
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Álvarez Quintero, Serafín
+    aliases:
+    - Quintero, Serafín Álvarez
+    - Quintero, Serafin Alvarez
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '6938'
+    url: http://www.gutenberg.org/2009/agents/6938
+  - agent_name: Álvarez Quintero, Joaquín
+    aliases:
+    - Quintero, Joaquín Álvarez
+    - Quintero, Joaquin Alvarez
+    birthdate: 1873
+    deathdate: 1944
+    gutenberg_agent_id: '6939'
+    url: http://www.gutenberg.org/2009/agents/6939
+creator:
+  author:
+    agent_name: Bécquer, Gustavo Adolfo
+    aliases:
+    - Bécquer, Gustavo Adolfo Domínguez
+    - Bastida, Gustavo Adolfo Domínguez
+    - Domínguez Bécquer, Gustavo Adolfo
+    - Béquer, Gustavo Adolfo
+    - Bequer, Gustavo Adolfo
+    - Becquer, Gustavo Adolfo Dominguez
+    birthdate: 1836
+    deathdate: 1870
+    gutenberg_agent_id: '3696'
+    url: http://www.gutenberg.org/2009/agents/3696
+    wikipedia: http://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer
+description: ''
+gutenberg_issued: '2016-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53552'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish literature -- 19th century'
+- GITenberg
+tableOfContents: 'Leyendas -- Desde mi celda: cartos literarias) -- Rimas.'
+title: Obras escogidas
+url: http://www.gutenberg.org/ebooks/53552
